@@ -1,0 +1,16 @@
+.Nav-link{
+    background-color: blue;
+    align-items: center;
+    display: contents;
+    justify-content: space-around;
+    min-height: 5vh;
+    font-family: "montserrat", sans-serif;
+}
+/* body{background-image: url(./'IMG_20230408_143354_994.jpg');} */
+
+body{
+    background-color: aquamarine;
+    background-image: url('IMG_20230408_143354_994.jpg');
+    color: beige;
+}
+
